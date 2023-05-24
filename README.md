@@ -116,6 +116,9 @@ o	Select “No”
   <p>o	Enter the value for Login URL (above copied from Seller Account setup screen)</p> 
 </ul>
 Once the above steps are performed, you need to perform a test to ensure billing integration is working properly before submitting your product for approval.
+<br>
+<br>
+<p align="center"> © 2023 All rights reserved. SPEKTRA SYSTEMS LLC </p>
 
 
 
