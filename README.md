@@ -1,3 +1,5 @@
+<img alt="SaaSify logo" align="right" src=https://github.com/SaaSifyAdmin/GCP-Productsetup/assets/134104684/66359833-8d0d-4d97-8382-ad5598a5de13>
+
 # Integrating SaaS products with Google Cloud Marketplace
 <h1 align="center">Version History</h1>
 
@@ -100,14 +102,13 @@ This section defines steps for required technical configuration to integrate Saa
   <li>Navigate to <b>Technical Integration</b> section of the offer in producer-portal.</li> 
   <li>Under <b>Billing Integration</b></li> 
   </ol>
-  
   <ul type="i">
     <li>In the <b>Partner Procurement API Integration</b> section, click <b>Add Service Account</b> and link to the service account <b>saasify-marketplace-service</b> (created in the above section in format saasify-marketplace-service@(project domain name).iam.gserviceaccount.com)</li>
     <li>Project Domain name (Example – Equina-public)</li>
   <li>In the <b>Cloud Pub/Sub Integration</b> section, click <b>Add Service Account</b> and link to the service account <b>saasify-marketplace-service</b> - saasify-marketplace-service@<project domain name>.iam.gserviceaccount.com)</li>
     <li>In the <b>Service control API integration (Only for product with usage fees)</b> section, click </b>Add Service Account</b> and link to the service account <b>saasify-marketplace-service</b> – saasify-marketplace-service@(project domain name).iam.gserviceaccount.com)</li>
   </ul>
-<p>C.	Under <b>Frontend Integration</b></p>
+    <p>C. Under <b>Frontend Integration</b></p>
 <ul type="i">
     <li>Enter the value for Signup URL (above copied from SaaSify Seller Account setup screen)</li> 
     <li>Under Enable SSO login?</li> 
