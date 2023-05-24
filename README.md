@@ -1,10 +1,18 @@
 # Integrating SaaS products with Google Cloud Marketplace
-
 <h1 align="center">Version History</h1>
 
-|Version Number|Date|Remarks|
-| :---: | --- | --- | 
-| 1.0 | 2023-05-12 | GCP Product Setup |
+<table style="width:100%" align="center">
+    <tr>
+    <th>Version Number</th>
+    <th>Date</th>
+    <th>Remarks</th>
+  </tr
+  <tr>
+    <td>1.0</td>
+    <td>2023-05-23</td>
+    <td>GCP Product Setup</td>
+  </tr>
+</table>
 
 ### Contents
 - Purpose --> 3
