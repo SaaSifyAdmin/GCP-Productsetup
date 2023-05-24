@@ -17,13 +17,13 @@
 </table>
 
 ### Contents
-- Purpose --> 3
-- Prerequisite --> 3
-- Prerequisite - Service account creation for GCP API access – SaaSify Team -->  3
-- Product (First Offer) Setup -->  7
-- Pricing Setup -->  7
-- Seller Account configuration in SaaSify (SaaSify Team) --> 7
-- Technical Integration Setup --> 9
+- Purpose 
+- Prerequisite
+- Prerequisite - Service account creation for GCP API access – SaaSify Team
+- Product (First Offer) Setup
+- Pricing Setup
+- Seller Account configuration in SaaSify (SaaSify Team)
+- Technical Integration Setup
 
 ### Purpose
 The document explains the steps to set up a SaaS product in GCP marketplace.
@@ -33,7 +33,7 @@ Ensure <b>SaaSify tenant</b> is created with <b>GCP</b> as the Provider enabled 
 
 ### Prerequisite - Service account creation for GCP API access – SaaSify Team
 A <b>Service Account</b> is required to communicate with GCP Marketplace APIs like <b>Cloud Commerce Partner Procurement API</b> and <b>Service Control API</b> to manage customer purchases, accounts, entitlements, and usage report management.
-<p>a. Open the <b>Service Accounts</b> page in the <b> GCP Console</b>(https://console.cloud.google.com/iam-admin/serviceaccounts) under <b>IAM & Admin</b>.</p>
+<p>a. Open the <b>Service Accounts</b> page in the <b> GCP Console</b> (https://console.cloud.google.com/iam-admin/serviceaccounts) under <b>IAM & Admin</b>.</p>
 <p>b. Click <b>Create Service Account</b>.</p>
 <p>c.	Enter a Service account name (<b>saasify-marketplace-service</b>) and click on <b>Create and Continue.</b></p>
 <img alt="Creating a Service Account" src=https://github.com/SaaSifyAdmin/GCP-Productsetup/assets/134104684/a4439fd1-0d67-4063-a981-4d1a03811e03>
